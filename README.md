@@ -39,4 +39,4 @@ tdn(1:14) stores the residual surface load effects on 10 kinds of geodetic varia
 ## [Algorithmic formula] PAGravf4.5 User Reference https://www.zcyphygeodesy.com/en/
     7.2.3 The geodetic numerical grid file
     8.3 Surface load effects on various geodetic variations by Green's Integral
-DOS executable test file and all input and output data.
+The zip compression package includes the test project in visual studio 2017 - intel fortran integrated environment, DOS executable test file and all input and output data.
