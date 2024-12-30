@@ -3,6 +3,7 @@ https://www.zcyphygeodesy.com/en/h-nd-134.html
 ## [Algorithm purpose]
     From the regional residual equivalent water height (EWH) variation grid (cm), compute the residual surface load effects on the geoid or height anomaly (mm), ground gravity (μGal), gravity disturbance (μGal), ground tilt (SW, to the south and to the west, mas), vertical deflection (SW, to the south and to the west, mas), horizontal displacement (EN, to the east and to the north, mm), ground radial displacement (mm), ground normal or orthometric height (mm), radial gravity gradient (mE) and horizontal gravity gradient (NW, to the north and to the west, mE) by load Green's function integral.
     When computing the load effects of sea level variations, the height of the calculation point is the normal or orthometric height. When computing the load effects of surface atmosphere or land water variations, the height of the calculation point is the height relative to the Earth’s surface.
+![](https://24192633.s21i.faiusr.com/2/ABUIABACGAAgtbbQuQYolb-olQIwlg44ugk.jpg)
 ## [Geophysical models]
     The Green function file LoadGreen.txt of the load indirect effect on all-element geodetic variations.
 ## [Main program for test entrance]
